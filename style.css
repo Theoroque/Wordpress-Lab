@@ -1,0 +1,98 @@
+/*
+Theme Name: My custom theme
+Theme URI: http://wordpress.org/
+Description: The 2010 default theme for WordPress.
+Author: wordpressdotorg
+Author URI: http://wordpress.org/
+Version: 1.0
+Tags: black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu (optional)
+
+License:
+License URI:
+
+General comments (optional).
+*/
+
+a {
+	color:#000;	
+}
+
+	a:hover {
+		
+	}
+	
+h3 {
+	width:300px;
+	float:left;
+	margin:35px 0px 35px 0px;
+}
+
+ul {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+}
+
+body {
+font-family:Calibri;
+
+}
+
+#clear {
+	clear:both;
+}
+
+#container {
+	width:900px;
+	margin:auto;
+}
+
+#header {
+	width:100%;
+	background-color:#ddd;
+	padding:15px;
+	
+}
+
+#site_title {
+	float:left;
+}
+
+#site_tagline {
+	color:#aaa;
+	margin:30px 15px 0px 15px;
+	float:left;
+}
+
+.post {
+	
+}
+
+.post a {
+	text-decoration:none;
+}
+
+.post-cat_name {
+	font-size:10px;
+	
+}
+
+.post p {
+	margin:0px;
+} 
+
+.post-mood .post-meta {
+	font-size:12px;
+	margin:40px 10px 0px 0px;
+	width:200px;
+	float:left;
+	color:#aaa;
+}
+
+.post-mood .post-meta-key {
+	font-size:12px;
+	width:200px;
+	margin:35px 10px 0px 0px;
+	color:#aaa;
+}
+
